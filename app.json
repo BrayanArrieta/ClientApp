@@ -1,0 +1,13 @@
+{
+    "name": "ClientApp",
+    "description": "",
+    "keywords": [
+        "AngularJS",
+        "angular",
+        "node",
+        "express"
+    ],
+    "repository": "https://github.com/BrayanArrieta/ClientApp.git",
+    "success_url": "/",
+    "addons": []
+}
